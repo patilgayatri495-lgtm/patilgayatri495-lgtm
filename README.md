@@ -199,48 +199,112 @@ Explore my GitHub repositories for additional academic, development and learning
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Languages & Tools
 
-### 💻 Languages
+<div align="center">
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript,php" />
+### 💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,javascript,php" />
 </p>
 
-### 🌐 Frontend
+---
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap,tailwind" />
+### 🌐 Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,nodejs,express" />
 </p>
 
-### ⚙️ Backend
+---
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,express,php" />
+### 🗄️ Databases & Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,php,nodejs,express" />
 </p>
 
-### 🗄️ Databases
+---
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
+### 🤖 AI / ML & Data Science
 
-### 🤖 AI / ML & Data
-
-<p align="left">
+<p>
 <img src="https://skillicons.dev/icons?i=python" />
 <img src="https://cdn.simpleicons.org/pandas/150458" height="48" width="48"/>
 <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="48" width="48"/>
 <img src="https://cdn.simpleicons.org/opencv/5C3EE8" height="48" width="48"/>
 </p>
 
-### 🔧 Tools
+---
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,figma" />
+### 🔧 Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux" />
 </p>
 
----
+<br/>
+
+### ✨ Technologies I Work With
+
+<table>
+<tr>
+<td align="center" width="20%">
+
+### ☕
+
+**Java**
+
+DSA & Problem Solving
+
+</td>
+
+<td align="center" width="20%">
+
+### 🌐
+
+**Full Stack**
+
+Web Applications
+
+</td>
+
+<td align="center" width="20%">
+
+### 🤖
+
+**AI / ML**
+
+Intelligent Systems
+
+</td>
+
+<td align="center" width="20%">
+
+### 🗄️
+
+**Databases**
+
+SQL & NoSQL
+
+</td>
+
+<td align="center" width="20%">
+
+### 🔧
+
+**Dev Tools**
+
+Git & APIs
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
 
 # 📊 GitHub Analytics
 
