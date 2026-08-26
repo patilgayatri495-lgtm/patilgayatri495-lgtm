@@ -328,12 +328,13 @@ Git & APIs
 
 # 📈 Contribution Activity
 
+# 📈 Contribution Activity
+
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=patilgayatri495-lgtm&bg_color=FFFFFF00&color=555555&line=0E75B6&point=0E75B6&area=true&hide_border=true&custom_title=My%20GitHub%20Activity" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=patilgayatri495-lgtm&theme=github-compact&hide_border=true&area=true&custom_title=Gayatri's%20Contribution%20Activity" width="100%" alt="GitHub Contribution Activity"/>
 
 </div>
-
 ---
 
 # 🏆 GitHub Achievements
