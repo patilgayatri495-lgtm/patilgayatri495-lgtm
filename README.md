@@ -1,30 +1,299 @@
-<h1 align="center">Hi 👋, I'm Gayatri Patil</h1>
-<h3 align="center">B.Tech IT Student | Java & DSA | Full Stack Developer | AI/ML Enthusiast</h3>
+# 👋 Hi, I'm Gayatri Patil
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=patilgayatri495-lgtm&label=Profile%20views&color=0e75b6&style=flat" alt="patilgayatri495-lgtm" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=patilgayatri495-lgtm" alt="patilgayatri495-lgtm" /></a> </p>
-
-- 🔭 I’m currently working on [AI-Based PM Internship Recomendation Engine](https://github.com/patilgayatri495-lgtm/AI-based-PM-Internship-recomendation-Engine)
-
-- 🌱 I’m currently learning **AI/ML**
-
-- 👨‍💻 All of my projects are available at [https://github.com/patilgayatri495-lgtm](https://github.com/patilgayatri495-lgtm)
-
-- 📫 How to reach me **patilgayatri495@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/gayatri patil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gayatri patil" height="30" width="40" /></a>
-<a href="https://kaggle.com/gayatriipatill" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="gayatriipatill" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/valid_ducks_63" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="valid_ducks_63" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=B.Tech+IT+Student;Java+%7C+DSA+%7C+Full+Stack+Development;AI%2FML+Enthusiast;Building+Projects+%26+Learning+Every+Day" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://github.com/patilgayatri495-lgtm">
+    <img src="https://komarev.com/ghpvc/?username=patilgayatri495-lgtm&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+  </a>
+  <a href="https://github.com/patilgayatri495-lgtm?tab=followers">
+    <img src="https://img.shields.io/github/followers/patilgayatri495-lgtm?label=Followers&style=for-the-badge&color=0e75b6" alt="Followers"/>
+  </a>
+  <a href="https://github.com/patilgayatri495-lgtm?tab=repositories">
+    <img src="https://img.shields.io/badge/Public%20Repos-View%20Repositories-181717?style=for-the-badge&logo=github" alt="Repositories"/>
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=patilgayatri495-lgtm&show_icons=true&locale=en&layout=compact" alt="patilgayatri495-lgtm" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=patilgayatri495-lgtm&show_icons=true&locale=en" alt="patilgayatri495-lgtm" /></p>
+## 🚀 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=patilgayatri495-lgtm&" alt="patilgayatri495-lgtm" /></p>
+🎓 **B.Tech Information Technology Student**
+
+💻 Interested in **Software Development, Full Stack Development and AI/ML**
+
+☕ Strong focus on **Java and Data Structures & Algorithms**
+
+🌱 Currently learning **AI/ML and modern development technologies**
+
+🔨 Building practical projects to strengthen my development and problem-solving skills
+
+📚 Continuously improving my **DSA, SQL, Java and AI/ML** knowledge
+
+🎯 Goal: Become a strong software engineer capable of building real-world applications
+
+---
+
+## 🧠 Current Focus
+
+```text
+Java & DSA              ███████████████████░   Learning & Practicing
+Full Stack Development  ██████████████████░░   Building Projects
+AI / Machine Learning   ███████████████░░░░░   Currently Learning
+SQL & Databases         ███████████████████░   Strong Foundation
+Git & GitHub             █████████████████░░░   Practicing
+```
+
+---
+
+# 🛠️ Tech Stack
+
+### 👨‍💻 Programming Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,php" />
+</p>
+
+### 🌐 Frontend Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwind,react" />
+</p>
+
+### ⚙️ Backend Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php" />
+</p>
+
+### 🗄️ Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+### 🤖 AI / ML & Data
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://cdn.simpleicons.org/pandas/150458" height="48" width="48" alt="Pandas"/>
+  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="48" width="48" alt="Scikit Learn"/>
+  <img src="https://cdn.simpleicons.org/opencv/5C3EE8" height="48" width="48" alt="OpenCV"/>
+</p>
+
+### 🔧 Tools & Platforms
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux" />
+</p>
+
+---
+
+# ⭐ Featured Projects
+
+## 🤖 AI-Based PM Internship Recommendation Engine
+
+An AI-powered project designed to recommend suitable Product Management internships based on candidate skills, interests and profile information.
+
+**Focus:** AI/ML • Recommendation Systems • Data Processing
+
+<p>
+<a href="https://github.com/patilgayatri495-lgtm/AI-based-PM-Internship-recomendation-Engine">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" />
+</a>
+</p>
+
+---
+
+## ✈️ Airline Booking Website
+
+A full-stack airline booking application focused on flight search, booking workflows, user interaction and database management.
+
+**Focus:** Full Stack Development • Web Development • Database
+
+<p>
+<a href="https://github.com/patilgayatri495-lgtm">
+<img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github" />
+</a>
+</p>
+
+---
+
+## 🔄 NFA to DFA Converter
+
+A project implementing **NFA to DFA conversion using the Subset Construction algorithm**, with a graphical interface for displaying states and transitions.
+
+**Focus:** Automata Theory • Algorithms • Python • Web Interface
+
+<p>
+<a href="https://github.com/patilgayatri495-lgtm">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" />
+</a>
+</p>
+
+---
+
+> 💡 More projects are available in my repositories.
+
+<p align="center">
+  <a href="https://github.com/patilgayatri495-lgtm?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore%20All%20Projects-0E75B6?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=patilgayatri495-lgtm&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&theme=transparent" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patilgayatri495-lgtm&layout=compact&hide_border=true&langs_count=8&theme=transparent" height="180"/>
+</p>
+
+---
+
+# 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=patilgayatri495-lgtm&hide_border=true&theme=transparent" alt="GitHub Contribution Streak"/>
+</p>
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=patilgayatri495-lgtm&hide_border=true&area=true&custom_title=Gayatri's%20Contribution%20Graph" width="100%" alt="Contribution Graph"/>
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=patilgayatri495-lgtm&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%" alt="GitHub Trophies"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/patilgayatri495-lgtm/patilgayatri495-lgtm/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+</p>
+
+---
+
+# 💻 Coding Profiles
+
+<p align="center">
+
+<a href="https://github.com/patilgayatri495-lgtm">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.kaggle.com/gayatriipatill">
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+</a>
+
+<a href="https://www.codechef.com/users/valid_ducks_63">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/gayatri-patil/">
+<img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
+</a>
+
+<a href="mailto:patilgayatri495@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="48"/>
+</a>
+
+<a href="https://github.com/patilgayatri495-lgtm">
+<img src="https://skillicons.dev/icons?i=github" width="48"/>
+</a>
+
+</p>
+
+<p align="center">
+📧 <b>patilgayatri495@gmail.com</b>
+</p>
+
+---
+
+# 🌱 Currently Learning
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/AI%20%2F%20ML-Learning-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Java-DSA-007396?style=for-the-badge&logo=java"/>
+<img src="https://img.shields.io/badge/Full%20Stack-Development-61DAFB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Problem%20Solving-Practice-0E75B6?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 💡 My Developer Journey
+
+```text
+          ┌─────────────────────┐
+          │   B.Tech IT Student │
+          └──────────┬──────────┘
+                     │
+          ┌──────────▼──────────┐
+          │   Java + DSA        │
+          └──────────┬──────────┘
+                     │
+          ┌──────────▼──────────┐
+          │ Full Stack Projects │
+          └──────────┬──────────┘
+                     │
+          ┌──────────▼──────────┐
+          │     AI / ML         │
+          └──────────┬──────────┘
+                     │
+          ┌──────────▼──────────┐
+          │ Software Engineer   │
+          └─────────────────────┘
+```
+
+---
+
+## ✨ A Little More About Me
+
+* 💻 I enjoy building practical software projects.
+* 🧩 I like solving programming and DSA problems.
+* 🤖 Currently exploring Artificial Intelligence and Machine Learning.
+* 🌐 Interested in Full Stack Web Development.
+* 📊 Interested in data-driven applications and intelligent systems.
+* 🚀 Always learning something new and improving my technical skills.
+
+---
+
+# 📌 GitHub Profile
+
+<p align="center">
+
+<a href="https://github.com/patilgayatri495-lgtm">
+<img src="https://img.shields.io/badge/GitHub-Visit%20My%20Profile-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+<p align="center">
+  <b>Thanks for visiting my profile! ⭐</b>
+</p>
+
+<p align="center">
+  <i>Keep learning. Keep building. Keep growing. 🚀</i>
+</p>
