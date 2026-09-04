@@ -459,6 +459,22 @@ Currently Exploring
 
 <br><br>
 
+<h2 align="center">🐍 CONTRIBUTION SNAKE</h2>
+
+<table align="center" width="95%">
+<tr>
+<td align="center" bgcolor="#160B2B">
+
+<br>
+
+<img src="https://raw.githubusercontent.com/patilgayatri495-lgtm/patilgayatri495-lgtm/output/github-contribution-grid-snake.svg">
+
+<br><br>
+
+</td>
+</tr>
+</table>
+
 
 <!-- ===================================================== -->
 <!--                    PROJECT LAB                        -->
