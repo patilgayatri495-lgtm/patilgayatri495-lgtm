@@ -1,8 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=6,11,20&text=GAYATRI%20PATIL&fontSize=60&fontColor=ffffff&fontAlignY=38&animation=twinkling"/>
+<!-- ====================================================== -->
+<!--                    HERO SECTION                        -->
+<!-- ====================================================== -->
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2500&pause=800&color=8B5CF6&center=true&vCenter=true&width=800&lines=B.Tech+IT+Student+%7C+Developer;Full+Stack+%7C+AI%2FML+%7C+Java+%7C+DSA;Building+Projects+%E2%80%A2+Solving+Problems+%E2%80%A2+Learning+Every+Day;Turning+Ideas+Into+Working+Applications"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,50:111827,100:1e1b4b&text=GAYATRI%20PATIL&fontSize=60&fontColor=ffffff&fontAlignY=38&animation=twinkling"/>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2500&pause=700&color=67E8F9&center=true&vCenter=true&width=900&lines=B.Tech+IT+Student+%7C+Developer;Full+Stack+%7C+AI%2FML+%7C+Java+%7C+DSA;BUILD+%E2%80%A2+SOLVE+%E2%80%A2+EXPLORE+%E2%80%A2+GROW;Turning+Ideas+Into+Working+Applications"/>
 
 <br><br>
 
@@ -13,9 +19,11 @@
 <a href="https://github.com/patilgayatri495-lgtm">
 <img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
 <a href="https://www.linkedin.com/in/gayatri-patil-225400331">
 <img src="https://img.shields.io/badge/LINKEDIN-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 <a href="https://www.codechef.com/users/valid_ducks_63">
 <img src="https://img.shields.io/badge/CODECHEF-B45309?style=for-the-badge&logo=codechef&logoColor=white"/>
 </a>
@@ -24,51 +32,107 @@
 
 <br><br>
 
+---
+
+<!-- ====================================================== -->
+<!--                    WHO AM I                             -->
+<!-- ====================================================== -->
+
 <div align="center">
 
-## 🪄 <font color="#A78BFA">WHO AM I?</font>
+# 🪄 WHO AM I?
 
-<i>DEVELOPER &nbsp; × &nbsp; PROBLEM SOLVER &nbsp; × &nbsp; AI EXPLORER</i>
+### `DEVELOPER` × `PROBLEM SOLVER` × `AI EXPLORER`
 
-<br><br>
+<br>
 
 <table>
 <tr>
-<td align="center" bgcolor="#071B3A" width="210">
+
+<td align="center" width="220" bgcolor="#061A33">
+
+<br>
+
 <h1>💻</h1>
-<h2><font color="#38BDF8">BUILD</font></h2>
+
+<h2>BUILD</h2>
+
 <hr>
-<font color="#E0F2FE">Real-world<br>Applications</font>
+
+<b>Real-world</b><br>
+<b>Applications</b>
+
 <br><br>
-<img src="https://img.shields.io/badge/BUILD-REAL--WORLD-0284C7?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/BUILD-38BDF8?style=for-the-badge&labelColor=020617"/>
+
+<br><br>
+
 </td>
 
-<td align="center" bgcolor="#210B3A" width="210">
+<td align="center" width="220" bgcolor="#230A3D">
+
+<br>
+
 <h1>🧠</h1>
-<h2><font color="#E879F9">SOLVE</font></h2>
+
+<h2>SOLVE</h2>
+
 <hr>
-<font color="#F5D0FE">DSA &<br>Programming</font>
+
+<b>DSA &</b><br>
+<b>Programming</b>
+
 <br><br>
-<img src="https://img.shields.io/badge/SOLVE-DSA-A21CAF?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/SOLVE-E879F9?style=for-the-badge&labelColor=090014"/>
+
+<br><br>
+
 </td>
 
-<td align="center" bgcolor="#063B3B" width="210">
+<td align="center" width="220" bgcolor="#032C36">
+
+<br>
+
 <h1>🤖</h1>
-<h2><font color="#2DD4BF">EXPLORE</font></h2>
+
+<h2>EXPLORE</h2>
+
 <hr>
-<font color="#CCFBF1">AI / ML &<br>Emerging Tech</font>
+
+<b>AI / ML &</b><br>
+<b>Emerging Tech</b>
+
 <br><br>
-<img src="https://img.shields.io/badge/EXPLORE-AI%2FML-0F766E?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/EXPLORE-2DD4BF?style=for-the-badge&labelColor=020617"/>
+
+<br><br>
+
 </td>
 
-<td align="center" bgcolor="#421A08" width="210">
+<td align="center" width="220" bgcolor="#381505">
+
+<br>
+
 <h1>🚀</h1>
-<h2><font color="#FBBF24">GROW</font></h2>
+
+<h2>GROW</h2>
+
 <hr>
-<font color="#FEF3C7">Learn → Build<br>→ Improve</font>
+
+<b>Learn → Build</b><br>
+<b>→ Improve</b>
+
 <br><br>
-<img src="https://img.shields.io/badge/GROW-IMPROVE-D97706?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/GROW-FBBF24?style=for-the-badge&labelColor=1C0D00"/>
+
+<br><br>
+
 </td>
+
 </tr>
 </table>
 
@@ -76,73 +140,137 @@
 
 <table>
 <tr>
-<td align="center" bgcolor="#26104A" width="280">
-<h2>🎓</h2>
-<font color="#C084FC"><b>B.TECH INFORMATION TECHNOLOGY</b></font>
-<br><br>
-<font color="#F3E8FF">Engineering Student</font>
-</td>
 
-<td align="center" bgcolor="#082B52" width="280">
-<h2>☕</h2>
-<font color="#38BDF8"><b>JAVA + DSA</b></font>
-<br><br>
-<font color="#E0F2FE">Problem Solving Focus</font>
-</td>
-
-<td align="center" bgcolor="#063B2B" width="280">
-<h2>🤖</h2>
-<font color="#4ADE80"><b>AI / ML</b></font>
-<br><br>
-<font color="#DCFCE7">Currently Exploring</font>
-</td>
-</tr>
-</table>
+<td align="center" width="280" bgcolor="#180B2D">
 
 <br>
 
-<img src="https://img.shields.io/badge/Java-DSA-2563EB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Full--Stack-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI%2FML-059669?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Web_Development-E11D48?style=for-the-badge"/>
+<h1>🎓</h1>
+
+<h2>B.TECH IT</h2>
+
+<hr>
+
+Information Technology
+
+<br><br>
+
+<img src="https://img.shields.io/badge/STUDENT-C084FC?style=for-the-badge&labelColor=090014"/>
+
+<br>
+
+</td>
+
+<td align="center" width="280" bgcolor="#061C38">
+
+<br>
+
+<h1>☕</h1>
+
+<h2>JAVA + DSA</h2>
+
+<hr>
+
+Problem Solving Focus
+
+<br><br>
+
+<img src="https://img.shields.io/badge/PRACTICING-38BDF8?style=for-the-badge&labelColor=020617"/>
+
+<br>
+
+</td>
+
+<td align="center" width="280" bgcolor="#05291E">
+
+<br>
+
+<h1>🤖</h1>
+
+<h2>AI / ML</h2>
+
+<hr>
+
+Currently Exploring
+
+<br><br>
+
+<img src="https://img.shields.io/badge/EXPLORING-4ADE80?style=for-the-badge&labelColor=020617"/>
+
+<br>
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
 <br><br>
 
+---
+
+<!-- ====================================================== -->
+<!--                    TECH STACK                           -->
+<!-- ====================================================== -->
+
 <div align="center">
 
-## ⚡ <font color="#38BDF8">MY DEVELOPER STACK</font>
+# ⚡ MY DEVELOPER STACK
 
-<i>Tools that turn ideas into applications</i>
+<i>Technologies I use to build, solve and experiment.</i>
 
 <br><br>
 
 <table>
 <tr>
 
-<td align="center" bgcolor="#071B3A" width="300">
-<h3><font color="#38BDF8">⌨️ LANGUAGES</font></h3>
+<td align="center" width="300" bgcolor="#061A33">
+
+<h2>💙 LANGUAGES</h2>
+
 <br>
+
 <img src="https://skillicons.dev/icons?i=java,python,js,php,html,css&perline=3"/>
+
 <br><br>
-<img src="https://img.shields.io/badge/CORE-Java%20%7C%20Python%20%7C%20JavaScript-0284C7?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/JAVA-CORE-2563EB?style=flat-square"/>
+<img src="https://img.shields.io/badge/PYTHON-AI-3776AB?style=flat-square"/>
+<img src="https://img.shields.io/badge/JAVASCRIPT-WEB-F7DF1E?style=flat-square&logoColor=black"/>
+
 </td>
 
-<td align="center" bgcolor="#210B3A" width="300">
-<h3><font color="#E879F9">🌐 DEVELOPMENT</font></h3>
+<td align="center" width="300" bgcolor="#230A3D">
+
+<h2>💜 DEVELOPMENT</h2>
+
 <br>
+
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,mysql,bootstrap&perline=3"/>
+
 <br><br>
-<img src="https://img.shields.io/badge/STACK-Full--Stack-A21CAF?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/REACT-FULLSTACK-61DAFB?style=flat-square"/>
+<img src="https://img.shields.io/badge/NODEJS-BACKEND-339933?style=flat-square"/>
+<img src="https://img.shields.io/badge/MYSQL-DATABASE-4479A1?style=flat-square"/>
+
 </td>
 
-<td align="center" bgcolor="#063B3B" width="300">
-<h3><font color="#2DD4BF">🛠️ TOOLS</font></h3>
+<td align="center" width="300" bgcolor="#05291E">
+
+<h2>💚 TOOLS</h2>
+
 <br>
+
 <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman&perline=3"/>
+
 <br><br>
-<img src="https://img.shields.io/badge/WORKFLOW-Code%20%7C%20Debug%20%7C%20Deploy-0F766E?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/GIT-VERSION-F05032?style=flat-square"/>
+<img src="https://img.shields.io/badge/GITHUB-CODE-181717?style=flat-square"/>
+<img src="https://img.shields.io/badge/DOCKER-DEVOPS-2496ED?style=flat-square"/>
+
 </td>
 
 </tr>
@@ -152,81 +280,80 @@
 
 <br><br>
 
+---
+
+<!-- ====================================================== -->
+<!--                    PROJECT LAB                          -->
+<!-- ====================================================== -->
+
 <div align="center">
 
-## 🚀 <font color="#A78BFA">PROJECT LAB</font>
+# 🚀 PROJECT LAB
 
 <i>Ideas → Code → Working Products</i>
 
-</div>
-
-<br>
+<br><br>
 
 <table>
+
 <tr>
 
-<td width="50%" valign="top" bgcolor="#12082B">
+<td width="50%" valign="top" bgcolor="#061A33">
 
 <h2>🔄 NFA → DFA</h2>
 
-<font color="#E879F9"><b>AUTOMATA CONVERSION TOOL</b></font>
+<h3>🔵 AUTOMATA CONVERSION TOOL</h3>
+
+A web-based application that converts
+<b>NFA into DFA</b> using the Subset Construction algorithm.
+
+<br>
+
+<b>CORE TECHNOLOGY</b>
 
 <br><br>
 
-A web-based application that converts <b>NFA into DFA</b> using the Subset Construction algorithm.
+<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/FLASK-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 
 <br><br>
 
-<font color="#38BDF8"><b>CORE TECHNOLOGY</b></font>
+<b>FEATURES</b>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-
-<br><br>
-
-<font color="#34D399"><b>FEATURES</b></font>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/ε--closure-7C3AED?style=flat-square"/>
-<img src="https://img.shields.io/badge/Subset_Construction-2563EB?style=flat-square"/>
-<img src="https://img.shields.io/badge/Interactive_UI-059669?style=flat-square"/>
+<img src="https://img.shields.io/badge/ε--CLOSURE-38BDF8?style=flat-square&labelColor=020617"/>
+<img src="https://img.shields.io/badge/SUBSET-CONSTRUCTION-38BDF8?style=flat-square&labelColor=020617"/>
+<img src="https://img.shields.io/badge/INTERACTIVE-UI-38BDF8?style=flat-square&labelColor=020617"/>
 
 </td>
 
-<td width="50%" valign="top" bgcolor="#210B3A">
+<td width="50%" valign="top" bgcolor="#230A3D">
 
 <h2>📊 Student Competency</h2>
 
-<font color="#C084FC"><b>ANALYSIS & VISUALIZATION SYSTEM</b></font>
-
-<br><br>
+<h3>🟣 ANALYSIS & VISUALIZATION</h3>
 
 A web application for analysing student competency and presenting performance data visually.
 
-<br><br>
+<br>
 
-<font color="#E879F9"><b>CORE TECHNOLOGY</b></font>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
+<b>CORE TECHNOLOGY</b>
 
 <br><br>
 
-<font color="#F472B6"><b>FEATURES</b></font>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Data_Analysis-DB2777?style=flat-square"/>
-<img src="https://img.shields.io/badge/Dashboard-7C3AED?style=flat-square"/>
-<img src="https://img.shields.io/badge/Charts-2563EB?style=flat-square"/>
-<img src="https://img.shields.io/badge/Database-059669?style=flat-square"/>
+<b>FEATURES</b>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/DASHBOARD-C084FC?style=flat-square&labelColor=090014"/>
+<img src="https://img.shields.io/badge/ANALYTICS-E879F9?style=flat-square&labelColor=090014"/>
+<img src="https://img.shields.io/badge/CHARTS-F472B6?style=flat-square&labelColor=090014"/>
 
 </td>
 
@@ -234,319 +361,418 @@ A web application for analysing student competency and presenting performance da
 
 <tr>
 
-<td width="50%" valign="top" bgcolor="#08234A">
+<td width="50%" valign="top" bgcolor="#061C38">
 
 <h2>✈️ Airline Booking</h2>
 
-<font color="#38BDF8"><b>FULL STACK BOOKING PLATFORM</b></font>
+<h3>🔵 FULL STACK BOOKING PLATFORM</h3>
 
-<br><br>
+A flight booking platform designed around search,
+recommendations and booking workflows.
 
-A flight booking platform designed around search, recommendations and booking workflows.
+<br>
 
-<br><br>
-
-<font color="#38BDF8"><b>CORE TECHNOLOGY</b></font>
+<b>TECHNOLOGY</b>
 
 <br><br>
 
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/MYSQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 
 <br><br>
 
-<font color="#60A5FA"><b>FEATURES</b></font>
+<b>FEATURES</b>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Flight_Search-0284C7?style=flat-square"/>
-<img src="https://img.shields.io/badge/Recommendations-7C3AED?style=flat-square"/>
-<img src="https://img.shields.io/badge/E--Ticket-059669?style=flat-square"/>
-<img src="https://img.shields.io/badge/Payments-E11D48?style=flat-square"/>
+<img src="https://img.shields.io/badge/FLIGHT-SEARCH-60A5FA?style=flat-square&labelColor=020617"/>
+<img src="https://img.shields.io/badge/BOOKING-60A5FA?style=flat-square&labelColor=020617"/>
+<img src="https://img.shields.io/badge/E--TICKET-60A5FA?style=flat-square&labelColor=020617"/>
 
 </td>
 
-<td width="50%" valign="top" bgcolor="#063B2B">
+<td width="50%" valign="top" bgcolor="#05291E">
 
 <h2>🤖 PM Internship Engine</h2>
 
-<font color="#4ADE80"><b>AI RECOMMENDATION SYSTEM</b></font>
+<h3>🟢 AI RECOMMENDATION SYSTEM</h3>
+
+An AI-based system designed to recommend suitable
+Product Management internships based on user information and skills.
+
+<br>
+
+<b>TECHNOLOGY</b>
 
 <br><br>
 
-An AI-based system designed to recommend suitable <b>Product Management internships</b> based on user information and skills.
+<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI%2FML-10B981?style=for-the-badge"/>
 
 <br><br>
 
-<font color="#34D399"><b>TECHNOLOGY</b></font>
+<b>FOCUS</b>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/AI%2FML-10B981?style=flat-square"/>
-<img src="https://img.shields.io/badge/Web-059669?style=flat-square"/>
-
-<br><br>
-
-<font color="#86EFAC"><b>FOCUS</b></font>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Recommendation-059669?style=flat-square"/>
-<img src="https://img.shields.io/badge/User_Profiling-0F766E?style=flat-square"/>
-<img src="https://img.shields.io/badge/Matching-16A34A?style=flat-square"/>
-<img src="https://img.shields.io/badge/AI_Suggestions-047857?style=flat-square"/>
+<img src="https://img.shields.io/badge/RECOMMENDATION-4ADE80?style=flat-square&labelColor=020617"/>
+<img src="https://img.shields.io/badge/MATCHING-4ADE80?style=flat-square&labelColor=020617"/>
+<img src="https://img.shields.io/badge/USER-PROFILING-4ADE80?style=flat-square&labelColor=020617"/>
 
 </td>
 
 </tr>
+
 </table>
+
+</div>
 
 <br><br>
 
+---
+
+<!-- ====================================================== -->
+<!--                    CODECHEF                            -->
+<!-- ====================================================== -->
+
 <div align="center">
 
-## 🏆 <font color="#FBBF24">THE CODECHEF ZONE</font>
+# 🏆 CODECHEF ARENA
 
 <i>Where consistency turns into numbers.</i>
 
 <br><br>
 
 <table>
+
 <tr>
 
-<td align="center" bgcolor="#3A2105" width="200">
+<td align="center" width="210" bgcolor="#291A05">
+
 <h1>💎</h1>
-<font color="#FBBF24"><h2>2,241+</h2></font>
-<font color="#FDE68A"><b>PROBLEMS</b></font>
+
+<h1>2241+</h1>
+
+<b>PROBLEMS SOLVED</b>
+
 <br><br>
-<img src="https://img.shields.io/badge/STATUS-DIAMOND-F59E0B?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/DIAMOND-7C3AED?style=for-the-badge"/>
+
 </td>
 
-<td align="center" bgcolor="#071B3A" width="200">
+<td align="center" width="210" bgcolor="#061C38">
+
 <h1>🏁</h1>
-<font color="#60A5FA"><h2>29</h2></font>
-<font color="#BFDBFE"><b>CONTESTS</b></font>
+
+<h1>29</h1>
+
+<b>CONTESTS</b>
+
 <br><br>
-<img src="https://img.shields.io/badge/CONTESTS-29-2563EB?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/CONTESTS-2563EB?style=for-the-badge"/>
+
 </td>
 
-<td align="center" bgcolor="#210B3A" width="200">
+<td align="center" width="210" bgcolor="#230A3D">
+
 <h1>⭐</h1>
-<font color="#C084FC"><h2>1085</h2></font>
-<font color="#DDD6FE"><b>RATING</b></font>
+
+<h1>1085</h1>
+
+<b>CURRENT RATING</b>
+
 <br><br>
-<img src="https://img.shields.io/badge/RATING-1085-7C3AED?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/RATING-A78BFA?style=for-the-badge"/>
+
 </td>
 
-<td align="center" bgcolor="#063B2B" width="200">
+<td align="center" width="210" bgcolor="#05291E">
+
 <h1>🔥</h1>
-<font color="#4ADE80"><h2>5+</h2></font>
-<font color="#BBF7D0"><b>DAY STREAK</b></font>
+
+<h1>5+</h1>
+
+<b>DAY STREAK</b>
+
 <br><br>
-<img src="https://img.shields.io/badge/STREAK-5%2B-059669?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/STREAK-22C55E?style=for-the-badge"/>
+
 </td>
 
 </tr>
+
 </table>
 
-<br><br>
+<br>
 
 <a href="https://www.codechef.com/users/valid_ducks_63">
+
 <img src="https://cdn.codechef.com/images/badges/problem/diamond.svg" width="120"/>
-</a>
-
-<a href="https://www.codechef.com/users/valid_ducks_63">
 <img src="https://cdn.codechef.com/images/badges/contest/silver.svg" width="120"/>
-</a>
-
-<a href="https://www.codechef.com/users/valid_ducks_63">
 <img src="https://cdn.codechef.com/images/badges/streak/bronze.svg" width="120"/>
+
 </a>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/💎_PROBLEM_SOLVER-DIAMOND-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🏁_CONTEST_CONTENDER-SILVER-6B7280?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🔥_DAILY_STREAK-BRONZE-CD7F32?style=for-the-badge"/>
 
 <br><br>
 
 <a href="https://www.codechef.com/users/valid_ducks_63">
-<img src="https://img.shields.io/badge/VIEW_FULL_CODECHEF_PROFILE-111827?style=for-the-badge&logo=codechef&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/VIEW_FULL_CODECHEF_PROFILE-7C3AED?style=for-the-badge&logo=codechef&logoColor=white"/>
+
 </a>
 
 </div>
 
 <br><br>
 
-<div align="center">
+---
 
-## 📈 <font color="#60A5FA">MY PROGRESS SNAPSHOT</font>
-
-<i>A quick look at the numbers behind the journey</i>
-
-<br><br>
-
-<table>
-<tr>
-
-<td align="center" bgcolor="#071B3A" width="230">
-<h1>🧩</h1>
-<h2><font color="#38BDF8">2,241+</font></h2>
-<font color="#E0F2FE"><b>PROBLEMS SOLVED</b></font>
-</td>
-
-<td align="center" bgcolor="#210B3A" width="230">
-<h1>🏁</h1>
-<h2><font color="#C084FC">29</font></h2>
-<font color="#F3E8FF"><b>CONTESTS</b></font>
-</td>
-
-<td align="center" bgcolor="#063B3B" width="230">
-<h1>⭐</h1>
-<h2><font color="#2DD4BF">1085</font></h2>
-<font color="#CCFBF1"><b>CURRENT RATING</b></font>
-</td>
-
-</tr>
-</table>
-
-<br><br>
-
-<table>
-<tr>
-<td align="center" bgcolor="#0F1F3A" width="700">
-<h3><font color="#38BDF8">🧩 PROBLEM-SOLVING MILESTONE</font></h3>
-<font color="#E0F2FE">████████████████████████████████████████</font>
-<br>
-<img src="https://img.shields.io/badge/1000%2B-MILESTONE-0284C7?style=for-the-badge"/>
-</td>
-</tr>
-<tr>
-<td align="center" bgcolor="#210B3A" width="700">
-<h3><font color="#C084FC">🏁 CONTEST MILESTONE</font></h3>
-<font color="#F3E8FF">████████████████████████████████████████</font>
-<br>
-<img src="https://img.shields.io/badge/25%2B-MILESTONE-7C3AED?style=for-the-badge"/>
-</td>
-</tr>
-</table>
-
-</div>
-
-<br><br>
+<!-- ====================================================== -->
+<!--                    ACHIEVEMENTS                         -->
+<!-- ====================================================== -->
 
 <div align="center">
 
-## 🌟 <font color="#F472B6">ACHIEVEMENT WALL</font>
+# 🌟 ACHIEVEMENT WALL
 
 <i>Not just certificates — experiences.</i>
 
 <br><br>
 
 <table>
+
 <tr>
-<td align="center" bgcolor="#3A2105" width="100"><h2>🏅</h2></td>
-<td bgcolor="#111827" width="520"><font color="#FBBF24"><b>ADOBE HACKATHON 2026</b></font><br><br>Hackathon Participant</td>
+
+<td align="center" width="100" bgcolor="#291A05">
+
+<h1>🏅</h1>
+
+</td>
+
+<td width="600" bgcolor="#17100A">
+
+<h3>ADOBE HACKATHON 2026</h3>
+
+Participant
+
+</td>
+
 </tr>
 
 <tr>
-<td align="center" bgcolor="#210B3A"><h2>🚀</h2></td>
-<td bgcolor="#210B3A"><font color="#C084FC"><b>HACKHIEST HACKATHON</b></font><br><br>SVKM College, Dhule</td>
+
+<td align="center" bgcolor="#230A3D">
+
+<h1>🚀</h1>
+
+</td>
+
+<td bgcolor="#180B2A">
+
+<h3>HACKHIEST HACKATHON</h3>
+
+SVKM College, Dhule
+
+</td>
+
 </tr>
 
 <tr>
-<td align="center" bgcolor="#071B3A"><h2>💡</h2></td>
-<td bgcolor="#071B3A"><font color="#60A5FA"><b>K. K. WAGH NASHIK HACKATHON</b></font><br><br>Hackathon Participant</td>
+
+<td align="center" bgcolor="#061C38">
+
+<h1>💡</h1>
+
+</td>
+
+<td bgcolor="#071A31">
+
+<h3>K. K. WAGH NASHIK HACKATHON</h3>
+
+Participant
+
+</td>
+
 </tr>
 
 <tr>
-<td align="center" bgcolor="#063B2B"><h2>🇮🇳</h2></td>
-<td bgcolor="#063B2B"><font color="#4ADE80"><b>SMART INDIA HACKATHON 2025</b></font><br><br>Nomination</td>
+
+<td align="center" bgcolor="#05291E">
+
+<h1>🇮🇳</h1>
+
+</td>
+
+<td bgcolor="#061F18">
+
+<h3>SMART INDIA HACKATHON 2025</h3>
+
+Nomination
+
+</td>
+
 </tr>
 
 <tr>
-<td align="center" bgcolor="#082F49"><h2>☁️</h2></td>
-<td bgcolor="#082F49"><font color="#38BDF8"><b>GOOGLE CLOUD JAM 2025</b></font><br><br>Achievement / Participation</td>
+
+<td align="center" bgcolor="#082F49">
+
+<h1>☁️</h1>
+
+</td>
+
+<td bgcolor="#062438">
+
+<h3>GOOGLE CLOUD JAM 2025</h3>
+
+Achievement / Participation
+
+</td>
+
 </tr>
 
 <tr>
-<td align="center" bgcolor="#3B0764"><h2>🎁</h2></td>
-<td bgcolor="#3B0764"><font color="#E879F9"><b>GDGoC</b></font><br><br>Won Swags</td>
+
+<td align="center" bgcolor="#3B0764">
+
+<h1>🎁</h1>
+
+</td>
+
+<td bgcolor="#270842">
+
+<h3>GDGoC</h3>
+
+Won Swags
+
+</td>
+
 </tr>
+
 </table>
 
 </div>
 
 <br><br>
 
+---
+
+<!-- ====================================================== -->
+<!--                    FLIPKART JOURNEY                     -->
+<!-- ====================================================== -->
+
 <div align="center">
 
-## 💼 <font color="#60A5FA">FLIPKART JOURNEY</font>
+# 💼 FLIPKART JOURNEY
 
-<i>One application. Multiple rounds. Real experience.</i>
+<i>Application → Challenges → Experience</i>
 
 <br><br>
 
 <table>
+
 <tr>
 
-<td align="center" bgcolor="#111827" width="170">
+<td align="center" width="170" bgcolor="#111827">
+
 <h2>01</h2>
-<h2>📝</h2>
-<font color="#60A5FA"><b>APPLIED</b></font>
+
+<h1>📝</h1>
+
+<b>APPLIED</b>
+
 </td>
 
-<td bgcolor="#111827" width="50" align="center"><h2>→</h2></td>
+<td align="center" width="50">
 
-<td align="center" bgcolor="#082B52" width="170">
+<h1>→</h1>
+
+</td>
+
+<td align="center" width="170" bgcolor="#061C38">
+
 <h2>02</h2>
-<h2>🧠</h2>
-<font color="#38BDF8"><b>ROUND 1</b></font>
-<br><br>
-<font color="#4ADE80"><b>✓ CLEARED</b></font>
+
+<h1>🧠</h1>
+
+<b>ROUND 1</b>
+
+<br>
+
+<img src="https://img.shields.io/badge/CLEARED-22C55E?style=flat-square"/>
+
 </td>
 
-<td bgcolor="#082B52" width="50" align="center"><h2>→</h2></td>
+<td align="center" width="50">
 
-<td align="center" bgcolor="#210B3A" width="170">
+<h1>→</h1>
+
+</td>
+
+<td align="center" width="170" bgcolor="#230A3D">
+
 <h2>03</h2>
-<h2>💻</h2>
-<font color="#C084FC"><b>ROUND 2</b></font>
-<br><br>
-<font color="#4ADE80"><b>✓ CLEARED</b></font>
+
+<h1>💻</h1>
+
+<b>ROUND 2</b>
+
+<br>
+
+<img src="https://img.shields.io/badge/CLEARED-22C55E?style=flat-square"/>
+
 </td>
 
-<td bgcolor="#210B3A" width="50" align="center"><h2>→</h2></td>
+<td align="center" width="50">
 
-<td align="center" bgcolor="#063B2B" width="170">
+<h1>→</h1>
+
+</td>
+
+<td align="center" width="170" bgcolor="#05291E">
+
 <h2>04</h2>
-<h2>🚀</h2>
-<font color="#4ADE80"><b>EXPERIENCE</b></font>
-<br><br>
-<font color="#BBF7D0"><b>GAINED</b></font>
+
+<h1>🚀</h1>
+
+<b>EXPERIENCE</b>
+
+<br>
+
+Gained
+
 </td>
 
 </tr>
+
 </table>
 
 <br>
 
-<img src="https://img.shields.io/badge/ROUNDS_CLEARED-2-22C55E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/EXPERIENCE_GAINED-YES-6366F1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/2_ROUNDS_CLEARED-22C55E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/EXPERIENCE_GAINED-6366F1?style=for-the-badge"/>
 
 </div>
 
 <br><br>
 
+---
+
+<!-- ====================================================== -->
+<!--                    GITHUB ANALYTICS                     -->
+<!-- ====================================================== -->
+
 <div align="center">
 
-## 📊 <font color="#60A5FA">GITHUB ANALYTICS</font>
+# 📊 GITHUB ANALYTICS
 
-<i>My coding activity — visualized</i>
+<i>My open-source activity at a glance.</i>
 
 <br><br>
 
@@ -564,208 +790,335 @@ An AI-based system designed to recommend suitable <b>Product Management internsh
 
 <br><br>
 
+---
+
+<!-- ====================================================== -->
+<!--                 CONTRIBUTION GRAPH                      -->
+<!-- ====================================================== -->
+
 <div align="center">
 
-## 🌌 <font color="#A78BFA">CONTRIBUTION UNIVERSE</font>
+# 🌌 CONTRIBUTION UNIVERSE
 
-<i>Every contribution tells part of the story.</i>
+<i>Every square represents another step forward.</i>
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=patilgayatri495-lgtm&bg_color=0D1117&color=8B5CF6&line=6366F1&point=FFFFFF&area=true&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=patilgayatri495-lgtm&bg_color=020617&color=8B5CF6&line=6366F1&point=FFFFFF&area=true&hide_border=true"/>
 
 </div>
 
 <br><br>
 
+---
+
+<!-- ====================================================== -->
+<!--                 CURRENTLY WORKING                       -->
+<!-- ====================================================== -->
+
 <div align="center">
 
-## 🧠 <font color="#34D399">CURRENTLY IN PROGRESS</font>
+# 🧠 CURRENTLY WORKING ON
 
-<br><br>
+<br>
 
 <table>
+
 <tr>
 
-<td align="center" bgcolor="#063B2B" width="220">
+<td align="center" width="220" bgcolor="#05291E">
+
 <h1>🤖</h1>
-<font color="#4ADE80"><h3>AI / ML</h3></font>
-<img src="https://img.shields.io/badge/STATUS-EXPLORING-059669?style=for-the-badge"/>
+
+<h2>AI / ML</h2>
+
+<hr>
+
+<img src="https://img.shields.io/badge/EXPLORING-4ADE80?style=for-the-badge&labelColor=020617"/>
+
 </td>
 
-<td align="center" bgcolor="#3A2105" width="220">
+<td align="center" width="220" bgcolor="#291A05">
+
 <h1>☕</h1>
-<font color="#FBBF24"><h3>JAVA + DSA</h3></font>
-<img src="https://img.shields.io/badge/STATUS-PRACTICING-D97706?style=for-the-badge"/>
+
+<h2>JAVA + DSA</h2>
+
+<hr>
+
+<img src="https://img.shields.io/badge/PRACTICING-FBBF24?style=for-the-badge&labelColor=1C0D00"/>
+
 </td>
 
-<td align="center" bgcolor="#071B3A" width="220">
+<td align="center" width="220" bgcolor="#061C38">
+
 <h1>🌐</h1>
-<font color="#60A5FA"><h3>FULL STACK</h3></font>
-<img src="https://img.shields.io/badge/STATUS-BUILDING-2563EB?style=for-the-badge"/>
+
+<h2>FULL STACK</h2>
+
+<hr>
+
+<img src="https://img.shields.io/badge/BUILDING-38BDF8?style=for-the-badge&labelColor=020617"/>
+
 </td>
 
-<td align="center" bgcolor="#210B3A" width="220">
+<td align="center" width="220" bgcolor="#230A3D">
+
 <h1>🧩</h1>
-<font color="#C084FC"><h3>PROBLEM SOLVING</h3></font>
-<img src="https://img.shields.io/badge/STATUS-IMPROVING-7C3AED?style=for-the-badge"/>
+
+<h2>PROBLEM SOLVING</h2>
+
+<hr>
+
+<img src="https://img.shields.io/badge/IMPROVING-E879F9?style=for-the-badge&labelColor=090014"/>
+
 </td>
 
 </tr>
+
 </table>
 
 </div>
 
 <br><br>
 
+---
+
+<!-- ====================================================== -->
+<!--                    NEXT LEVEL                           -->
+<!-- ====================================================== -->
+
 <div align="center">
 
-## 🎯 <font color="#F472B6">NEXT LEVEL</font>
+# 🎯 NEXT LEVEL
 
-<i>The roadmap I'm building for myself</i>
+<i>2026 → BUILD → LEARN → IMPROVE → REPEAT</i>
 
 <br><br>
 
 <table>
+
 <tr>
 
-<td align="center" bgcolor="#071B3A" width="220">
-<h1>01</h1>
-🚀
-<br><br>
-<font color="#60A5FA"><b>SOFTWARE DEVELOPMENT</b></font>
+<td align="center" bgcolor="#061C38" width="220">
+
+<h1>🚀</h1>
+
+<h3>SOFTWARE</h3>
+<h3>DEVELOPMENT</h3>
+
+<img src="https://img.shields.io/badge/LEVEL_UP-38BDF8?style=flat-square&labelColor=020617"/>
+
 </td>
 
-<td align="center" bgcolor="#210B3A" width="220">
-<h1>02</h1>
-🤖
-<br><br>
-<font color="#C084FC"><b>AI / ML</b></font>
+<td align="center" bgcolor="#230A3D" width="220">
+
+<h1>🤖</h1>
+
+<h3>AI / ML</h3>
+
+<img src="https://img.shields.io/badge/EXPLORE-C084FC?style=flat-square&labelColor=090014"/>
+
 </td>
 
-<td align="center" bgcolor="#063B2B" width="220">
-<h1>03</h1>
-🧠
-<br><br>
-<font color="#4ADE80"><b>ADVANCED DSA</b></font>
+<td align="center" bgcolor="#05291E" width="220">
+
+<h1>🧠</h1>
+
+<h3>ADVANCED DSA</h3>
+
+<img src="https://img.shields.io/badge/MASTER-4ADE80?style=flat-square&labelColor=020617"/>
+
 </td>
 
-<td align="center" bgcolor="#421A08" width="220">
-<h1>04</h1>
-💻
-<br><br>
-<font color="#FBBF24"><b>FULL STACK</b></font>
+<td align="center" bgcolor="#381505" width="220">
+
+<h1>💻</h1>
+
+<h3>FULL STACK</h3>
+
+<img src="https://img.shields.io/badge/BUILD-FBBF24?style=flat-square&labelColor=1C0D00"/>
+
 </td>
 
 </tr>
+
 </table>
 
 <br><br>
+
+<h2>
+
+`LEARN` → `BUILD` → `BREAK` → `FIX` → `IMPROVE` → `REPEAT`
+
+</h2>
+
+</div>
+
+<br><br>
+
+---
+
+<!-- ====================================================== -->
+<!--                    PHILOSOPHY                           -->
+<!-- ====================================================== -->
+
+<div align="center">
+
+# ✨ THE DEVELOPER PHILOSOPHY
+
+<br>
+
+<table>
+
+<tr>
+
+<td align="center" bgcolor="#061C38" width="190">
+
+<h1>📚</h1>
+
+<h3>LEARN</h3>
+
+</td>
+
+<td align="center" bgcolor="#230A3D" width="190">
+
+<h1>💻</h1>
+
+<h3>BUILD</h3>
+
+</td>
+
+<td align="center" bgcolor="#291A05" width="190">
+
+<h1>🐛</h1>
+
+<h3>BREAK</h3>
+
+</td>
+
+<td align="center" bgcolor="#082F49" width="190">
+
+<h1>🔧</h1>
+
+<h3>FIX</h3>
+
+</td>
+
+<td align="center" bgcolor="#05291E" width="190">
+
+<h1>🚀</h1>
+
+<h3>GROW</h3>
+
+</td>
+
+</tr>
+
+</table>
+
+<br><br>
+
+<h2>Don't just learn technology.</h2>
+
+<h1>Build something with it. 🚀</h1>
+
+<br>
 
 <img src="https://img.shields.io/badge/LEARN-2563EB?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/BUILD-7C3AED?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/BREAK-E11D48?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FIX-D97706?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/IMPROVE-059669?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FIX-F59E0B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GROW-10B981?style=for-the-badge"/>
 
 </div>
 
 <br><br>
 
-<div align="center">
+---
 
-## ✨ <font color="#FBBF24">THE DEVELOPER MINDSET</font>
-
-<br>
-
-<table>
-<tr>
-
-<td align="center" bgcolor="#071B3A" width="200">
-<h1>📚</h1>
-<font color="#60A5FA"><b>LEARN</b></font>
-<br><br>
-<font color="#BFDBFE">Understand</font>
-</td>
-
-<td align="center" bgcolor="#210B3A" width="200">
-<h1>💻</h1>
-<font color="#C084FC"><b>BUILD</b></font>
-<br><br>
-<font color="#DDD6FE">Create</font>
-</td>
-
-<td align="center" bgcolor="#3A2105" width="200">
-<h1>🐛</h1>
-<font color="#FBBF24"><b>DEBUG</b></font>
-<br><br>
-<font color="#FDE68A">Improve</font>
-</td>
-
-<td align="center" bgcolor="#063B2B" width="200">
-<h1>🚀</h1>
-<font color="#4ADE80"><b>GROW</b></font>
-<br><br>
-<font color="#BBF7D0">Repeat</font>
-</td>
-
-</tr>
-</table>
-
-<br><br>
-
-<h2><font color="#C084FC">Don't just learn technology.</font></h2>
-<h2><font color="#38BDF8">Build something with it.</font></h2>
-
-<br>
-
-<img src="https://img.shields.io/badge/LEARN-→-2563EB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/BUILD-→-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DEBUG-→-D97706?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/GROW-🚀-059669?style=for-the-badge"/>
-
-</div>
-
-<br><br>
+<!-- ====================================================== -->
+<!--                    CONNECT                              -->
+<!-- ====================================================== -->
 
 <div align="center">
 
-## 🌐 <font color="#60A5FA">CONNECT WITH ME</font>
+# 🌐 FIND ME ONLINE
 
 <i>Let's connect • collaborate • create</i>
 
 <br><br>
 
+<table>
+
+<tr>
+
+<td align="center" bgcolor="#111827" width="260">
+
+<h2>💻</h2>
+
+<h3>GITHUB</h3>
+
 <a href="https://github.com/patilgayatri495-lgtm">
-<img src="https://img.shields.io/badge/GITHUB-Explore_My_Code-111827?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/EXPLORE_MY_CODE-111827?style=for-the-badge&logo=github&logoColor=white"/>
+
 </a>
 
-<br><br>
+</td>
+
+<td align="center" bgcolor="#061C38" width="260">
+
+<h2>💼</h2>
+
+<h3>LINKEDIN</h3>
 
 <a href="https://www.linkedin.com/in/gayatri-patil-225400331">
-<img src="https://img.shields.io/badge/LINKEDIN-Connect_With_Me-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/CONNECT_WITH_ME-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
 </a>
 
-<br><br>
+</td>
+
+<td align="center" bgcolor="#291A05" width="260">
+
+<h2>🏆</h2>
+
+<h3>CODECHEF</h3>
 
 <a href="https://www.codechef.com/users/valid_ducks_63">
-<img src="https://img.shields.io/badge/CODECHEF-Follow_My_Progress-B45309?style=for-the-badge&logo=codechef&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/FOLLOW_PROGRESS-B45309?style=for-the-badge&logo=codechef&logoColor=white"/>
+
 </a>
+
+</td>
+
+</tr>
+
+</table>
 
 </div>
 
 <br><br>
 
+---
+
+<!-- ====================================================== -->
+<!--                    FOOTER                               -->
+<!-- ====================================================== -->
+
 <div align="center">
 
-### 💜 <font color="#A78BFA">Thanks for visiting my profile</font>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Keep+Learning+%E2%80%A2+Keep+Building+%E2%80%A2+Keep+Growing;Every+Commit+Is+Another+Step+Forward+%F0%9F%9A%80"/>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Keep+Learning+%E2%80%A2+Keep+Building+%E2%80%A2+Keep+Growing;See+you+in+the+next+commit+%F0%9F%9A%80"/>
+<h3>💜 Thanks for visiting my profile!</h3>
 
-<br><br>
+<br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=6,11,20&section=footer&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:020617,50:4C1D95,100:7C3AED&section=footer&animation=twinkling"/>
 
 </div>
