@@ -467,7 +467,11 @@ Currently Exploring
 
 <br>
 
-<img src="https://raw.githubusercontent.com/patilgayatri495-lgtm/patilgayatri495-lgtm/output/github-contribution-grid-snake.svg">
+<img
+src="https://raw.githubusercontent.com/patilgayatri495-lgtm/patilgayatri495-lgtm/output/github-contribution-grid-snake.svg"
+alt="GitHub Contribution Snake"
+width="90%"
+/>
 
 <br><br>
 
