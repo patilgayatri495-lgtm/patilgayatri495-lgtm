@@ -459,7 +459,7 @@ Currently Exploring
 
 <br><br>
 
-<h2 align="center">🐍 CONTRIBUTION SNAKE</h2>
+<h2 align="center">🐍 CONTRIBUTION SNAKE (Eating my green flags :) </h2>
 
 <table align="center" width="95%">
 <tr>
