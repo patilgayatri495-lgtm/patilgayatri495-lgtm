@@ -1,4 +1,214 @@
 <!-- ===================================================== -->
+<!--                 PROFILE INTRO                         -->
+<!-- ===================================================== -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=6,11,20&text=GAYATRI%20PATIL&fontSize=65&fontColor=ffffff&fontAlignY=40&animation=twinkling"/>
+
+<br>
+
+<table width="95%">
+<tr>
+
+<td align="center" bgcolor="#160B2E">
+
+<br>
+
+<h1>
+<font color="#E879F9">
+✨ HELLO, I'M GAYATRI ✨
+</font>
+</h1>
+
+<h2>
+<font color="#C4B5FD">
+B.Tech Information Technology Student
+</font>
+</h2>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=700&color=E879F9&center=true&vCenter=true&width=750&lines=Developer+%7C+Problem+Solver+%7C+AI+Explorer;Java+%7C+DSA+%7C+Full+Stack+%7C+AI%2FML;Building+Projects+%E2%80%A2+Solving+Problems+%E2%80%A2+Learning+Every+Day;Turning+Ideas+Into+Working+Applications"/>
+
+<br><br>
+
+<table width="90%">
+<tr>
+
+<td align="center" bgcolor="#071D3D">
+
+<h2>💻</h2>
+
+<font color="#38BDF8">
+<b>DEVELOPER</b>
+</font>
+
+<br>
+
+<font color="#BAE6FD">
+Building real-world applications
+</font>
+
+</td>
+
+<td align="center" bgcolor="#260B3D">
+
+<h2>🧠</h2>
+
+<font color="#E879F9">
+<b>PROBLEM SOLVER</b>
+</font>
+
+<br>
+
+<font color="#F5D0FE">
+DSA • Algorithms • Programming
+</font>
+
+</td>
+
+<td align="center" bgcolor="#06351F">
+
+<h2>🤖</h2>
+
+<font color="#4ADE80">
+<b>AI EXPLORER</b>
+</font>
+
+<br>
+
+<font color="#BBF7D0">
+Exploring AI / ML
+</font>
+
+</td>
+
+<td align="center" bgcolor="#3A2505">
+
+<h2>🚀</h2>
+
+<font color="#FBBF24">
+<b>LEARNER</b>
+</font>
+
+<br>
+
+<font color="#FEF3C7">
+Learn → Build → Improve
+</font>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=patilgayatri495-lgtm&label=PROFILE%20VIEWS&color=8B5CF6&style=for-the-badge"/>
+
+<br><br>
+
+<a href="https://github.com/patilgayatri495-lgtm">
+<img src="https://img.shields.io/badge/GITHUB-EXPLORE%20MY%20CODE-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/gayatri-patil-225400331">
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT%20WITH%20ME-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.codechef.com/users/valid_ducks_63">
+<img src="https://img.shields.io/badge/CODECHEF-MY%20CODING%20JOURNEY-B45309?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+<br><br>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<!-- INTRODUCTION CARDS -->
+
+<table width="95%">
+<tr>
+
+<td align="center" bgcolor="#071D3D" width="25%">
+
+<h2>🎓</h2>
+
+<font color="#38BDF8">
+<h3>B.TECH IT</h3>
+</font>
+
+<font color="#E0F2FE">
+Information Technology
+</font>
+
+</td>
+
+<td align="center" bgcolor="#260B3D" width="25%">
+
+<h2>☕</h2>
+
+<font color="#E879F9">
+<h3>JAVA + DSA</h3>
+</font>
+
+<font color="#F5D0FE">
+Problem Solving
+</font>
+
+</td>
+
+<td align="center" bgcolor="#06351F" width="25%">
+
+<h2>🤖</h2>
+
+<font color="#4ADE80">
+<h3>AI / ML</h3>
+</font>
+
+<font color="#DCFCE7">
+Exploring
+</font>
+
+</td>
+
+<td align="center" bgcolor="#3A2505" width="25%">
+
+<h2>🌐</h2>
+
+<font color="#FBBF24">
+<h3>FULL STACK</h3>
+</font>
+
+<font color="#FEF3C7">
+Building
+</font>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<img src="https://img.shields.io/badge/BUILDING-REAL%20PROJECTS-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LEARNING-EVERY%20DAY-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/EXPLORING-AI%20%2F%20ML-059669?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SOLVING-DSA-E11D48?style=for-the-badge"/>
+
+</div>
+
+<br><br>
+
+---
+
+<h1 align="center">🪄 WHO AM I?</h1>
+<!-- ===================================================== -->
 <!--                    WHO AM I                           -->
 <!-- ===================================================== -->
 
