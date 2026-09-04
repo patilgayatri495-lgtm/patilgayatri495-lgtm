@@ -1,299 +1,202 @@
-# 👋 Hi, I'm Gayatri Patil
+<!-- ========================================================= --> <!-- GAYATRI PATIL README --> <!-- ========================================================= --> <div align="center">
+👋 Hi, I'm Gayatri Patil
+💻 B.Tech IT Student | Java & DSA | Full-Stack Developer | AI/ML Enthusiast
+<br> <a href="https://github.com/patilgayatri495-lgtm"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/gayatri-patil-225400331"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://www.codechef.com/users/valid_ducks_63"> <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/> </a>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=B.Tech+IT+Student;Java+%7C+DSA+%7C+Full+Stack+Development;AI%2FML+Enthusiast;Building+Projects+%26+Learning+Every+Day" alt="Typing SVG" />
-</p>
+<br><br>
 
-<p align="center">
-  <a href="https://github.com/patilgayatri495-lgtm">
-    <img src="https://komarev.com/ghpvc/?username=patilgayatri495-lgtm&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-  </a>
-  <a href="https://github.com/patilgayatri495-lgtm?tab=followers">
-    <img src="https://img.shields.io/github/followers/patilgayatri495-lgtm?label=Followers&style=for-the-badge&color=0e75b6" alt="Followers"/>
-  </a>
-  <a href="https://github.com/patilgayatri495-lgtm?tab=repositories">
-    <img src="https://img.shields.io/badge/Public%20Repos-View%20Repositories-181717?style=for-the-badge&logo=github" alt="Repositories"/>
-  </a>
-</p>
+<img src="https://komarev.com/ghpvc/?username=patilgayatri495-lgtm&label=PROFILE%20VIEWS&color=blueviolet&style=for-the-badge"/> </div>
+👩‍💻 About Me
 
----
+🎓 B.Tech Information Technology Student
+☕ Passionate about Java & Data Structures
+🌐 Full-Stack Development Enthusiast
+🤖 Exploring Artificial Intelligence & Machine Learning
+🧠 Competitive Programming & Problem Solving
+🚀 Building practical and real-world projects
+💡 Always learning and improving
 
-## 🚀 About Me
+I'm an Information Technology student passionate about software development, problem solving and emerging technologies.
 
-🎓 **B.Tech Information Technology Student**
+I enjoy building projects, participating in technical events and continuously improving my programming skills.
 
-💻 Interested in **Software Development, Full Stack Development and AI/ML**
+🛠️ Tech Stack
+💻 Programming Languages
+<p> <img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript,php"/> </p>
+🌐 Web Development
+<p> <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,nodejs,express"/> </p>
+🗄️ Databases
+<p> <img src="https://skillicons.dev/icons?i=mysql,mongodb"/> </p>
+🤖 AI / ML
+<p> <img src="https://skillicons.dev/icons?i=python,tensorflow"/> </p>
+🔧 Tools & Platforms
+<p> <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker"/> </p>
+🚀 Featured Projects
+🤖 AI-Based PM Internship Recommendation Engine
 
-☕ Strong focus on **Java and Data Structures & Algorithms**
+An AI-based recommendation system designed to suggest suitable Product Management internships based on user skills, interests and profile information.
 
-🌱 Currently learning **AI/ML and modern development technologies**
+Technologies:
+Python AI/ML Data Processing
 
-🔨 Building practical projects to strengthen my development and problem-solving skills
+🔄 NFA → DFA Converter
 
-📚 Continuously improving my **DSA, SQL, Java and AI/ML** knowledge
+A web-based application that converts a Non-Deterministic Finite Automaton (NFA) into a Deterministic Finite Automaton (DFA) using the Subset Construction Algorithm.
 
-🎯 Goal: Become a strong software engineer capable of building real-world applications
+Technologies:
+Python Flask HTML CSS JavaScript
 
----
+🔗 Repository:
+https://github.com/patilgayatri495-lgtm/NFA-to-DFA-converter-
 
-## 🧠 Current Focus
+📊 Student Competency Analysis
 
-```text
-Java & DSA              ███████████████████░   Learning & Practicing
-Full Stack Development  ██████████████████░░   Building Projects
-AI / Machine Learning   ███████████████░░░░░   Currently Learning
-SQL & Databases         ███████████████████░   Strong Foundation
-Git & GitHub             █████████████████░░░   Practicing
-```
+A web-based system designed to analyse student competencies and display performance information through an interactive dashboard.
 
----
+Technologies:
+PHP MySQL JavaScript HTML CSS Bootstrap Chart.js
 
-# 🛠️ Tech Stack
+🔗 Repository:
+https://github.com/patilgayatri495-lgtm/Student-Competency-Analysis
 
-### 👨‍💻 Programming Languages
+✈️ Airline Booking Website
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,php" />
-</p>
+A full-stack airline booking website designed to provide flight search, recommendations, booking and e-ticket functionality.
 
-### 🌐 Frontend Development
+Technologies:
+HTML CSS JavaScript PHP MySQL
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwind,react" />
-</p>
+📚 Library Management System
 
-### ⚙️ Backend Development
+A database-driven application designed to manage books, students, issue/return operations and library records.
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php" />
-</p>
+Technologies:
+Java MySQL
 
-### 🗄️ Databases
+🍳 CodeChef
+<div align="center"> <a href="https://www.codechef.com/users/valid_ducks_63"> <img src="https://img.shields.io/badge/CodeChef-1★-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/> </a> <img src="https://img.shields.io/badge/Problems%20Solved-2241+-blue?style=for-the-badge"/> <img src="https://img.shields.io/badge/Contests-29-purple?style=for-the-badge"/> <img src="https://img.shields.io/badge/Rating-1085-orange?style=for-the-badge"/> </div> <br> <div align="center">
+🏆 CodeChef Badges
+<br> <a href="https://www.codechef.com/users/valid_ducks_63"> <img src="https://cdn.codechef.com/images/badges/problem/diamond.svg" width="150"/> </a>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
-
-### 🤖 AI / ML & Data
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://cdn.simpleicons.org/pandas/150458" height="48" width="48" alt="Pandas"/>
-  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="48" width="48" alt="Scikit Learn"/>
-  <img src="https://cdn.simpleicons.org/opencv/5C3EE8" height="48" width="48" alt="OpenCV"/>
-</p>
-
-### 🔧 Tools & Platforms
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux" />
-</p>
-
----
-
-# ⭐ Featured Projects
-
-## 🤖 AI-Based PM Internship Recommendation Engine
-
-An AI-powered project designed to recommend suitable Product Management internships based on candidate skills, interests and profile information.
-
-**Focus:** AI/ML • Recommendation Systems • Data Processing
-
-<p>
-<a href="https://github.com/patilgayatri495-lgtm/AI-based-PM-Internship-recomendation-Engine">
-<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" />
-</a>
-</p>
-
----
-
-## ✈️ Airline Booking Website
-
-A full-stack airline booking application focused on flight search, booking workflows, user interaction and database management.
-
-**Focus:** Full Stack Development • Web Development • Database
-
-<p>
-<a href="https://github.com/patilgayatri495-lgtm">
-<img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github" />
-</a>
-</p>
-
----
-
-## 🔄 NFA to DFA Converter
-
-A project implementing **NFA to DFA conversion using the Subset Construction algorithm**, with a graphical interface for displaying states and transitions.
-
-**Focus:** Automata Theory • Algorithms • Python • Web Interface
-
-<p>
-<a href="https://github.com/patilgayatri495-lgtm">
-<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" />
-</a>
-</p>
-
----
-
-> 💡 More projects are available in my repositories.
-
-<p align="center">
-  <a href="https://github.com/patilgayatri495-lgtm?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore%20All%20Projects-0E75B6?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=patilgayatri495-lgtm&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&theme=transparent" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patilgayatri495-lgtm&layout=compact&hide_border=true&langs_count=8&theme=transparent" height="180"/>
-</p>
-
----
-
-# 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=patilgayatri495-lgtm&hide_border=true&theme=transparent" alt="GitHub Contribution Streak"/>
-</p>
-
----
-
-# 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=patilgayatri495-lgtm&hide_border=true&area=true&custom_title=Gayatri's%20Contribution%20Graph" width="100%" alt="Contribution Graph"/>
-</p>
-
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=patilgayatri495-lgtm&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%" alt="GitHub Trophies"/>
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/patilgayatri495-lgtm/patilgayatri495-lgtm/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-</p>
-
----
-
-# 💻 Coding Profiles
-
-<p align="center">
-
-<a href="https://github.com/patilgayatri495-lgtm">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.kaggle.com/gayatriipatill">
-<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-</a>
-
-<a href="https://www.codechef.com/users/valid_ducks_63">
-<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-# 🤝 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/gayatri-patil/">
-<img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
-</a>
-
-<a href="mailto:patilgayatri495@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="48"/>
-</a>
-
-<a href="https://github.com/patilgayatri495-lgtm">
-<img src="https://skillicons.dev/icons?i=github" width="48"/>
-</a>
-
-</p>
-
-<p align="center">
-📧 <b>patilgayatri495@gmail.com</b>
-</p>
-
----
-
-# 🌱 Currently Learning
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/AI%20%2F%20ML-Learning-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Java-DSA-007396?style=for-the-badge&logo=java"/>
-<img src="https://img.shields.io/badge/Full%20Stack-Development-61DAFB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Problem%20Solving-Practice-0E75B6?style=for-the-badge"/>
-
-</p>
-
----
-
-# 💡 My Developer Journey
-
-```text
-          ┌─────────────────────┐
-          │   B.Tech IT Student │
-          └──────────┬──────────┘
-                     │
-          ┌──────────▼──────────┐
-          │   Java + DSA        │
-          └──────────┬──────────┘
-                     │
-          ┌──────────▼──────────┐
-          │ Full Stack Projects │
-          └──────────┬──────────┘
-                     │
-          ┌──────────▼──────────┐
-          │     AI / ML         │
-          └──────────┬──────────┘
-                     │
-          ┌──────────▼──────────┐
-          │ Software Engineer   │
-          └─────────────────────┘
-```
-
----
-
-## ✨ A Little More About Me
-
-* 💻 I enjoy building practical software projects.
-* 🧩 I like solving programming and DSA problems.
-* 🤖 Currently exploring Artificial Intelligence and Machine Learning.
-* 🌐 Interested in Full Stack Web Development.
-* 📊 Interested in data-driven applications and intelligent systems.
-* 🚀 Always learning something new and improving my technical skills.
-
----
-
-# 📌 GitHub Profile
-
-<p align="center">
-
-<a href="https://github.com/patilgayatri495-lgtm">
-<img src="https://img.shields.io/badge/GitHub-Visit%20My%20Profile-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</p>
-
-<p align="center">
-  <b>Thanks for visiting my profile! ⭐</b>
-</p>
-
-<p align="center">
-  <i>Keep learning. Keep building. Keep growing. 🚀</i>
-</p>
+    
+
+<a href="https://www.codechef.com/users/valid_ducks_63"> <img src="https://cdn.codechef.com/images/badges/contest/silver.svg" width="150"/> </a>
+
+    
+
+<a href="https://www.codechef.com/users/valid_ducks_63"> <img src="https://cdn.codechef.com/images/badges/streak/bronze.svg" width="150"/> </a>
+
+<br><br>
+
+💎 Problem Solver — Diamond
+
+    
+
+🥈 Contest Contender — Silver
+
+    
+
+🥉 Daily Streak — Bronze
+
+</div> <br> <div align="center">
+🧩 Problems Solved	🏆 Contests Participated	⭐ Rating
+2,241+	29	1085
+</div> <br> <div align="center"> <a href="https://www.codechef.com/users/valid_ducks_63"> <img src="https://img.shields.io/badge/VIEW%20MY%20CODECHEF%20PROFILE-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/> </a> </div>
+🏆 Achievements & Hackathons
+<div align="center">
+🏅 Achievement	🎯 Recognition
+🚀 Adobe Hackathon 2026	Hackathon Participant
+💡 HackHiest Hackathon – SVKM College, Dhule	Hackathon Participant
+💻 K. K. Wagh Hackathon – Nashik	Hackathon Participant
+🇮🇳 Smart India Hackathon 2025	Nominated
+☁️ Google Cloud Jam 2025	Participant
+🎁 GDGoC	Swag Winner
+💼 Flipkart Internship Selection Process	Successfully Cleared 2 Rounds
+</div>
+🌟 Achievement Highlights
+<div align="center">
+🚀 Hackathons
+
+Participated in multiple hackathons including:
+
+Adobe Hackathon 2026
+HackHiest – SVKM College, Dhule
+K. K. Wagh Hackathon – Nashik
+Smart India Hackathon 2025 – Nomination
+
+<br>
+☁️ Google Cloud Jam 2025
+
+Participated in Google Cloud Jam 2025 and earned recognition through the event.
+
+<br>
+🎁 GDGoC
+
+🏆 Won GDGoC Swags
+
+<br>
+💼 Flipkart Internship
+
+Successfully cleared the first two rounds of the Flipkart internship selection process.
+
+</div>
+📈 Competitive Programming
+<div align="center">
+🧠 Problem Solving Journey
+<br> <img src="https://img.shields.io/badge/CodeChef-Problems%20Solved%202241+-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/> <img src="https://img.shields.io/badge/29-Contests-blueviolet?style=for-the-badge"/> <img src="https://img.shields.io/badge/1★-Rating-orange?style=for-the-badge"/> </div> <br>
+
+I regularly practice programming problems to strengthen my:
+
+Data Structures
+Algorithms
+Problem Solving
+Java Programming
+Competitive Programming
+📊 GitHub Analytics
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=patilgayatri495-lgtm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patilgayatri495-lgtm&layout=compact&theme=tokyonight&hide_border=true" height="180"/> </div> <br> <div align="center"> <img src="https://streak-stats.demolab.com?user=patilgayatri495-lgtm&theme=tokyonight&hide_border=true"/> </div>
+🏆 GitHub Trophies
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=patilgayatri495-lgtm&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1"/> </div>
+📈 Contribution Graph
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=patilgayatri495-lgtm&theme=tokyo-night&hide_border=true"/> </div>
+🐍 Contribution Snake
+<div align="center"> <img src="https://raw.githubusercontent.com/patilgayatri495-lgtm/patilgayatri495-lgtm/output/github-contribution-grid-snake.svg"/> </div>
+🎯 Currently Learning
+<div align="center">
+📚 Area	🎯 Focus
+☕ Java	Advanced Java & DSA
+🧠 DSA	Algorithms & Problem Solving
+🌐 Web Development	Full-Stack Development
+🤖 AI/ML	Machine Learning & AI Applications
+🗄️ Database	MySQL & Database Management
+🚀 Projects	Industry-oriented applications
+</div>
+🌱 2026 Goals
+🚀 Build more real-world projects
+☕ Become stronger in Java
+🧠 Improve DSA and competitive programming
+🤖 Build practical AI/ML applications
+🌐 Improve Full-Stack Development skills
+💼 Secure a strong software development internship
+📈 Maintain consistency on GitHub and CodeChef
+🌟 Continue participating in technical events
+💡 What I Like
+<div align="center">
+
+💻 Coding   •  
+🧠 Problem Solving   •  
+☕ Java   •  
+🤖 AI   •  
+🌐 Web Development   •  
+🚀 Building Projects   •  
+🏆 Competitive Programming
+
+</div>
+🤝 Let's Connect
+<div align="center"> <a href="https://github.com/patilgayatri495-lgtm"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/gayatri-patil-225400331"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://www.codechef.com/users/valid_ducks_63"> <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/> </a> </div>
+
+<br><br>
+
+<div align="center">
+⭐ Thanks for visiting my profile!
+💭 Code. Learn. Build. Repeat. 🚀
+<br> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/> </div>
