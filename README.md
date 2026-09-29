@@ -910,115 +910,55 @@ Won Swags
 
 <br><br>
 
-
-<!-- ===================================================== -->
-<!--                 FLIPKART JOURNEY                      -->
-<!-- ===================================================== -->
-
-<h1 align="center">💼 FLIPKART JOURNEY</h1>
+<h2 align="center">💼 FLIPKART JOURNEY</h2>
 
 <p align="center">
 <i>Application → Challenges → Experience</i>
 </p>
 
-<br>
-
-<table align="center" width="95%">
+<table align="center" width="80%">
 <tr>
 
 <td align="center" bgcolor="#081B3A">
-
-<h1>01</h1>
-
-<h2>📝</h2>
-
-<font color="#38BDF8">
-<b>APPLIED</b>
-</font>
-
-<br>
-
+<h3>📝 APPLIED</h3>
 Application Submitted
-
 </td>
 
-<td align="center" bgcolor="#111827">
-<h1>➜</h1>
+<td align="center">
+<b>→</b>
 </td>
 
 <td align="center" bgcolor="#06294A">
-
-<h1>02</h1>
-
-<h2>🧠</h2>
-
-<font color="#38BDF8">
-<b>ROUND 1</b>
-</font>
-
-<br>
-
-<font color="#4ADE80">
-✓ CLEARED
-</font>
-
+<h3>🧠 ROUND 1</h3>
+<font color="#4ADE80">✓ CLEARED</font>
 </td>
 
-<td align="center" bgcolor="#111827">
-<h1>➜</h1>
+<td align="center">
+<b>→</b>
 </td>
 
 <td align="center" bgcolor="#260B3D">
-
-<h1>03</h1>
-
-<h2>💻</h2>
-
-<font color="#E879F9">
-<b>ROUND 2</b>
-</font>
-
-<br>
-
-<font color="#4ADE80">
-✓ CLEARED
-</font>
-
+<h3>💻 ROUND 2</h3>
+<font color="#4ADE80">✓ CLEARED</font>
 </td>
 
-<td align="center" bgcolor="#111827">
-<h1>➜</h1>
+<td align="center">
+<b>→</b>
 </td>
 
 <td align="center" bgcolor="#06351F">
-
-<h1>04</h1>
-
-<h2>🚀</h2>
-
-<font color="#4ADE80">
-<b>EXPERIENCE</b>
-</font>
-
-<br>
-
+<h3>🚀 EXPERIENCE</h3>
 Gained
-
 </td>
 
 </tr>
 </table>
 
-<br>
-
 <p align="center">
-
 <img src="https://img.shields.io/badge/2_ROUNDS-CLEARED-16A34A?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/EXPERIENCE-GAINED-7C3AED?style=for-the-badge"/>
-
 </p>
 
-<br><br>
 
 
 <!-- ===================================================== -->
